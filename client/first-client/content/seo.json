@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-02-16T00:00:00.000Z",
+  "client_id": "first-client",
+  "title": "소상공인 랜딩페이지 제작 | 옆집개발실 NDDT",
+  "description": "AI 기반으로 3일 만에 반응형 랜딩페이지를 제작합니다. DB수집, SEO 최적화 기본 포함. 부산 소상공인·스타트업 전문.",
+  "canonical": "",
+  "locale": "ko_KR",
+  "og": {
+    "type": "website",
+    "title": "3일 만에 완성되는 소상공인 랜딩페이지 | 옆집개발실",
+    "description": "AI 기반 반응형 랜딩페이지 제작. DB수집·SEO 최적화 기본 포함. 부산 소상공인·스타트업 전문 에이전시.",
+    "image": "/api/og",
+    "image_width": 1200,
+    "image_height": 630
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "소상공인 랜딩페이지, AI로 3일 만에 제작 | 옆집개발실",
+    "description": "반응형 디자인, DB수집, SEO 최적화까지. 부산 소상공인·스타트업을 위한 랜딩페이지 전문 제작."
+  },
+  "keywords": [
+    "소상공인 랜딩페이지 제작",
+    "반응형 랜딩페이지",
+    "AI 랜딩페이지",
+    "스타트업 랜딩페이지",
+    "DB수집 랜딩페이지",
+    "SEO 최적화 랜딩페이지",
+    "부산 랜딩페이지 제작",
+    "부산 소상공인 홈페이지",
+    "부산 웹디자인",
+    "부산 랜딩페이지"
+  ],
+  "robots": "index, follow",
+  "alternate_hreflangs": []
+}
