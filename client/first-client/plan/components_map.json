@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-02-16T14:14:32.274Z",
+  "components": [
+    {
+      "section_id": "hero",
+      "component": "AgencyHeroSection",
+      "source": "section-library/hero"
+    },
+    {
+      "section_id": "proof_strip",
+      "component": "TrustProofStrip",
+      "source": "section-library/proof"
+    },
+    {
+      "section_id": "pain_solution",
+      "component": "PainSolutionCards",
+      "source": "section-library/problem-solution"
+    },
+    {
+      "section_id": "service_stack",
+      "component": "ServiceFeatureGrid",
+      "source": "section-library/features"
+    },
+    {
+      "section_id": "process",
+      "component": "ProcessTimeline",
+      "source": "section-library/process"
+    },
+    {
+      "section_id": "pricing",
+      "component": "PricingTeaserCards",
+      "source": "section-library/pricing"
+    },
+    {
+      "section_id": "faq",
+      "component": "FaqAccordion",
+      "source": "section-library/faq"
+    },
+    {
+      "section_id": "final_cta",
+      "component": "FinalCtaBanner",
+      "source": "section-library/cta"
+    },
+    {
+      "section_id": "footer",
+      "component": "LegalFooter",
+      "source": "section-library/footer"
+    }
+  ]
+}

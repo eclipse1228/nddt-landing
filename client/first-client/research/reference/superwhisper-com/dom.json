@@ -1,0 +1,36 @@
+{
+  "source_url": "https://superwhisper.com/?ref=saaspo.com",
+  "captured_at": "2026-02-16T14:14:31.424Z",
+  "hints": {
+    "hero": true,
+    "social_proof": true,
+    "feature_sections": true,
+    "pricing": true
+  },
+  "artifacts": {
+    "fullpage": "capture-images/references-1/superwhisper-fullpage.png",
+    "a11y_snapshot": "capture-images/references-1/superwhisper-a11y-snapshot.md",
+    "console_log": "capture-images/references-1/superwhisper-console.log"
+  },
+  "capture_fallbacks": {
+    "capture_status": "ok",
+    "recommended_mode": "headless_fullpage",
+    "options": [
+      {
+        "method": "segmented_scroll_capture",
+        "when_to_use": "fullPage image has large blank regions",
+        "summary": "Capture viewport screenshots while scrolling and stitch by y-offset"
+      },
+      {
+        "method": "network_idle_plus_warmup",
+        "when_to_use": "lazy assets or post-load animations are incomplete",
+        "summary": "Wait for network idle, then extra warm-up delay before screenshot"
+      },
+      {
+        "method": "dom_snapshot_first",
+        "when_to_use": "visual capture is unstable but structure is needed",
+        "summary": "Use accessibility/DOM snapshots as source of truth for section extraction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source_url": "https://superwhisper.com/?ref=saaspo.com",
+  "site_key": "superwhisper.com",
+  "visual_direction": "Dark gradient product-marketing layout with dense feature storytelling",
+  "interaction_focus": [
+    "theme switcher",
+    "sticky nav",
+    "interactive demo blocks"
+  ],
+  "section_hints": [
+    "hero CTA",
+    "social proof",
+    "features",
+    "pricing",
+    "FAQ"
+  ],
+  "notes": [
+    "Strong product-led messaging and multi-step demo sequence",
+    "Long-form page keeps CTA repeated across sections"
+  ]
+}

@@ -1,0 +1,2361 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - link "Docs" [ref=e6] [cursor=pointer]:
+        - /url: /docs
+      - link "Pricing" [ref=e7] [cursor=pointer]:
+        - /url: "#pricing"
+      - link "Download" [ref=e8] [cursor=pointer]:
+        - /url: /download
+        - img [ref=e9]
+        - generic [ref=e11]: Download
+    - generic [ref=e12]:
+      - button "Day" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+      - button "Dusk" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+      - button "Night" [ref=e23] [cursor=pointer]:
+        - img [ref=e24]
+    - generic [ref=e29]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]: Just speak.
+          - generic [ref=e34]: Write faster.
+        - generic [ref=e35]:
+          - generic [ref=e37]: Turn your voice into polished text.
+          - generic [ref=e41]: Works in Slack, Gmail and any other site or app.
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - button "Download for Mac" [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e48]: Download for Mac
+            - button "Download for Windows" [ref=e49] [cursor=pointer]:
+              - img [ref=e50]
+              - generic [ref=e52]: Download for Windows
+          - generic:
+            - textbox "example@example.com"
+            - button "Download" [disabled]:
+              - img
+              - generic: Download
+          - link "Also available for iPhone" [ref=e53] [cursor=pointer]:
+            - /url: /download
+            - text: Also available for iPhone
+            - img [ref=e54]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img
+                - img
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - img
+                      - img
+                    - generic: Home
+                  - generic:
+                    - generic:
+                      - img
+                    - generic: DMs
+                  - generic:
+                    - generic:
+                      - img
+                    - generic: Activity
+                  - generic:
+                    - generic:
+                      - img
+                    - generic: More
+                - generic:
+                  - generic:
+                    - img "You"
+              - generic:
+                - generic:
+                  - generic:
+                    - text: Slack
+                    - img
+                  - img
+                - generic:
+                  - generic:
+                    - img
+                    - generic: Unreads
+                  - generic:
+                    - img
+                    - generic: Drafts and sent
+                - generic:
+                  - generic: Channels
+                  - generic:
+                    - generic: "#"
+                    - generic: announcements
+                  - generic:
+                    - generic: "#"
+                    - generic: standup
+                - generic:
+                  - generic: Direct messages
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Lisa"
+                    - generic: Lisa
+                    - generic: "1"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Dario"
+                    - generic: Dario
+                    - generic: "2"
+          - generic:
+            - generic:
+              - generic:
+                - img
+                - generic: Search Slack
+              - img
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - text: "#standup"
+                    - img
+                  - generic:
+                    - generic:
+                      - img
+                      - generic: "2"
+                    - generic:
+                      - img
+                      - generic:
+                        - img
+                    - generic:
+                      - img
+                - generic:
+                  - generic:
+                    - generic: "👋 Welcome to the #standup channel"
+                    - generic: "This channel is for everything #standup. Hold meetings, share docs, and make decisions together with your team."
+                    - generic:
+                      - text: Today
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Lisa"
+                      - generic:
+                        - generic:
+                          - generic: Lisa
+                          - generic: 10:00 AM
+                        - generic: ☕ Morning team, any updates from last week?
+              - generic:
+                - 'textbox "Message #standup"'
+                - generic:
+                  - generic:
+                    - img
+                    - generic:
+                      - img
+                    - generic:
+                      - img
+                    - generic:
+                      - img
+                  - button [disabled]:
+                    - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic: Today
+              - generic:
+                - generic:
+                  - generic: New note
+                  - generic:
+                    - generic: 11:01PM
+                    - generic: No additional text
+                - generic:
+                  - generic: Dream where I found a rock with a strange letter on it.
+                  - generic:
+                    - generic: 7:15PM
+                    - generic: When I put it to my ear, it started whispering
+                - generic:
+                  - generic: List of books
+                  - generic:
+                    - generic: 7:12PM
+                    - generic: Doctor Faustus, Thomas Mann
+            - generic:
+              - generic: 2026년 2월 16일 at 11:01PM
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                    - generic: mod.rs
+                - generic:
+                  - generic: src
+                  - generic: listeners
+                  - generic: mod.rs
+                - generic:
+                  - generic:
+                    - generic: "45"
+                    - generic: "46"
+                    - generic: "47"
+                    - generic: "48"
+                    - generic: "49"
+                    - generic: "50"
+                    - generic: "51"
+                    - generic: "52"
+                    - generic: "53"
+                    - generic: "54"
+                    - generic: "55"
+                    - generic: "56"
+                    - generic: "57"
+                    - generic: "58"
+                    - generic: "59"
+                    - generic: "60"
+                    - generic: "61"
+                    - generic: "62"
+                    - generic: "63"
+                    - generic: "64"
+                    - generic: "65"
+                    - generic: "66"
+                    - generic: "67"
+                    - generic: "68"
+                    - generic: "69"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: function
+                          - generic: solid
+                      - generic:
+                        - generic:
+                          - generic: ()
+                          - generic: switch
+                          - generic: key
+                      - generic:
+                        - generic:
+                          - generic: case
+                          - generic: 37,38,39,40,65,66
+                      - generic:
+                        - generic:
+                          - generic: // Handle keyboard navigation and special command shortcuts
+                      - generic:
+                        - generic:
+                          - generic: class
+                          - generic: WaveForm
+                      - generic:
+                        - generic:
+                          - generic: analyze_spectrum
+                      - generic:
+                        - generic:
+                          - generic: for
+                          - generic: frequency
+                          - generic: in
+                          - generic: range(20, 20000, step=10) // Analyze full audible spectrum in 10Hz steps
+                      - generic:
+                        - generic:
+                          - generic: pipeline
+                          - generic: =
+                          - generic: new
+                          - generic: AudioPipeline
+                          - generic: (
+                          - generic: )
+                      - generic:
+                        - generic:
+                          - generic: pipeline
+                          - generic: .
+                          - generic: add
+                          - generic: (
+                          - generic: analyzer
+                          - generic: )
+                      - generic:
+                        - generic:
+                          - generic: function
+                          - generic: solid
+                      - generic:
+                        - generic:
+                          - generic: ()
+                          - generic: switch
+                          - generic: key
+                      - generic:
+                        - generic:
+                          - generic: case
+                          - generic: 37,38,39,40,65,66
+                      - generic:
+                        - generic:
+                          - generic: // Handle keyboard navigation and special command shortcuts
+                      - generic:
+                        - generic:
+                          - generic: class
+                          - generic: WaveForm
+                      - generic:
+                        - generic:
+                          - generic: analyze_spectrum
+                      - generic:
+                        - generic:
+                          - generic: for
+                          - generic: frequency
+                          - generic: in
+                          - generic: range(20, 20000, step=10) // Analyze full audible spectrum in 10Hz steps
+                      - generic:
+                        - generic:
+                          - generic: pipeline
+                          - generic: =
+                          - generic: new
+                          - generic: AudioPipeline
+                          - generic: (
+                          - generic: )
+                      - generic:
+                        - generic:
+                          - generic: pipeline
+                          - generic: .
+                          - generic: add
+                          - generic: (
+                          - generic: analyzer
+                          - generic: )
+                      - generic:
+                        - generic:
+                          - generic: function
+                          - generic: solid
+                      - generic:
+                        - generic:
+                          - generic: ()
+                          - generic: switch
+                          - generic: key
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                      - generic:
+                        - img
+                        - generic: mod.rs
+                        - generic: Current File
+                    - textbox "How could I make it easier to switch certificates in the transport listeners?"
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: claude-4.5-opus
+                      - generic:
+                        - generic:
+                          - img
+                          - generic: chat
+                        - generic:
+                          - generic: ⌘
+                          - img
+                          - generic: codebase
+                          - img
+      - generic:
+        - generic:
+          - generic: Ready to see how it works?
+          - button "Play Demo":
+            - generic:
+              - img
+            - text: Play Demo
+      - generic [ref=e60]:
+        - generic [ref=e61]: Scroll to see demo
+        - img [ref=e62]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - img "Cursor"
+            - generic:
+              - img "Slack"
+            - generic:
+              - img "Notes"
+  - generic [ref=e64]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic:
+          - generic: O
+          - generic: E
+          - generic: "N"
+          - generic: M
+          - generic: "Y"
+          - generic: P
+          - generic: K
+          - generic: O
+          - generic: U
+          - generic: P
+          - generic: B
+          - generic: P
+          - generic: W
+          - generic: C
+          - generic: T
+          - generic: M
+          - generic: M
+          - generic: X
+          - generic: O
+          - generic: Z
+          - generic: T
+          - generic: "Y"
+          - generic: L
+          - generic: X
+          - generic: L
+          - generic: S
+          - generic: T
+          - generic: "Y"
+          - generic: L
+          - generic: X
+          - generic: L
+          - generic: S
+          - generic: R
+          - generic: G
+          - generic: Z
+          - generic: L
+          - generic: O
+          - generic: P
+          - generic: K
+          - generic: T
+          - generic: M
+          - generic: P
+          - generic: V
+          - generic: F
+          - generic: L
+          - generic: "N"
+          - generic: D
+          - generic: B
+          - generic: X
+          - generic: P
+          - generic: T
+          - generic: H
+          - generic: D
+          - generic: B
+          - generic: X
+          - generic: P
+          - generic: T
+          - generic: H
+          - generic: B
+          - generic: C
+          - generic: W
+          - generic: Z
+          - generic: O
+          - generic: P
+          - generic: A
+          - generic: V
+          - generic: I
+          - generic: R
+          - generic: J
+          - generic: G
+          - generic: V
+          - generic: X
+          - generic: S
+          - generic: G
+          - generic: B
+          - generic: H
+          - generic: F
+          - generic: G
+          - generic: S
+          - generic: G
+          - generic: B
+          - generic: H
+          - generic: F
+          - generic: G
+          - generic: J
+          - generic: K
+          - generic: L
+          - generic: I
+          - generic: D
+          - generic: W
+          - generic: G
+          - generic: D
+          - generic: X
+          - generic: Z
+          - generic: S
+          - generic: B
+          - generic: T
+          - generic: J
+          - generic: G
+          - generic: V
+          - generic: P
+          - generic: X
+          - generic: O
+          - generic: M
+          - generic: G
+          - generic: V
+          - generic: P
+          - generic: X
+          - generic: O
+          - generic: M
+          - generic: A
+          - generic: A
+          - generic: E
+          - generic: "Y"
+          - generic: F
+          - generic: D
+          - generic: D
+          - generic: X
+          - generic: "Y"
+          - generic: "N"
+          - generic: X
+          - generic: Z
+          - generic: K
+          - generic: T
+          - generic: J
+          - generic: W
+          - generic: E
+          - generic: X
+          - generic: M
+          - generic: T
+          - generic: J
+          - generic: W
+          - generic: E
+          - generic: X
+          - generic: M
+          - generic: T
+          - generic: Z
+          - generic: A
+          - generic: J
+          - generic: P
+          - generic: Q
+          - generic: "N"
+          - generic: "Y"
+          - generic: X
+          - generic: E
+          - generic: O
+          - generic: X
+          - generic: R
+          - generic: Z
+          - generic: W
+          - generic: E
+          - generic: H
+          - generic: X
+          - generic: B
+          - generic: G
+          - generic: J
+          - generic: E
+          - generic: H
+          - generic: X
+          - generic: B
+          - generic: G
+          - generic: J
+          - generic: H
+          - generic: Z
+          - generic: C
+          - generic: Z
+          - generic: C
+          - generic: M
+          - generic: P
+          - generic: C
+          - generic: V
+          - generic: X
+          - generic: I
+          - generic: Q
+          - generic: "N"
+          - generic: G
+          - generic: H
+          - generic: "Y"
+          - generic: D
+          - generic: "N"
+          - generic: "Y"
+          - generic: X
+          - generic: H
+          - generic: "Y"
+          - generic: D
+          - generic: "N"
+          - generic: "Y"
+          - generic: X
+          - generic: W
+          - generic: E
+          - generic: L
+          - generic: I
+          - generic: W
+          - generic: H
+          - generic: O
+          - generic: P
+          - generic: S
+          - generic: "Y"
+          - generic: T
+          - generic: "Y"
+          - generic: W
+          - generic: G
+          - generic: B
+          - generic: J
+          - generic: G
+          - generic: K
+          - generic: J
+          - generic: I
+          - generic: B
+          - generic: J
+          - generic: G
+          - generic: K
+          - generic: J
+          - generic: I
+          - generic: Q
+          - generic: X
+          - generic: P
+          - generic: "N"
+          - generic: C
+          - generic: V
+          - generic: C
+          - generic: J
+          - generic: K
+          - generic: S
+          - generic: F
+          - generic: G
+          - generic: T
+          - generic: E
+          - generic: L
+          - generic: "Y"
+          - generic: Z
+          - generic: Q
+          - generic: Z
+          - generic: M
+          - generic: L
+          - generic: "Y"
+          - generic: Z
+          - generic: Q
+          - generic: Z
+          - generic: M
+          - generic: "N"
+          - generic: E
+          - generic: B
+          - generic: P
+          - generic: K
+          - generic: I
+          - generic: L
+          - generic: M
+          - generic: R
+          - generic: E
+          - generic: Z
+          - generic: L
+          - generic: H
+          - generic: X
+          - generic: B
+          - generic: T
+          - generic: D
+          - generic: W
+          - generic: "Y"
+          - generic: B
+          - generic: B
+          - generic: T
+          - generic: D
+          - generic: W
+          - generic: "Y"
+          - generic: B
+          - generic: Q
+          - generic: F
+          - generic: S
+          - generic: "Y"
+          - generic: W
+          - generic: P
+          - generic: X
+          - generic: O
+          - generic: S
+          - generic: K
+          - generic: F
+          - generic: W
+          - generic: E
+          - generic: S
+          - generic: Q
+          - generic: M
+          - generic: R
+          - generic: H
+          - generic: T
+          - generic: K
+          - generic: Q
+          - generic: M
+          - generic: R
+          - generic: H
+          - generic: T
+          - generic: K
+          - generic: I
+          - generic: C
+          - generic: K
+          - generic: D
+          - generic: J
+          - generic: T
+          - generic: S
+          - generic: R
+          - generic: B
+          - generic: W
+          - generic: L
+          - generic: A
+          - generic: "Y"
+          - generic: "N"
+          - generic: X
+          - generic: Z
+          - generic: A
+          - generic: E
+          - generic: W
+          - generic: M
+          - generic: X
+          - generic: Z
+          - generic: A
+          - generic: E
+          - generic: W
+          - generic: M
+          - generic: Z
+          - generic: L
+          - generic: G
+          - generic: R
+          - generic: V
+          - generic: A
+          - generic: S
+          - generic: C
+          - generic: L
+          - generic: F
+          - generic: U
+          - generic: J
+          - generic: J
+          - generic: L
+          - generic: X
+          - generic: C
+          - generic: "Y"
+          - generic: U
+          - generic: O
+          - generic: I
+          - generic: X
+          - generic: C
+          - generic: "Y"
+          - generic: U
+          - generic: O
+          - generic: I
+          - generic: K
+          - generic: A
+          - generic: C
+          - generic: L
+          - generic: Z
+          - generic: S
+          - generic: V
+          - generic: B
+          - generic: Z
+          - generic: J
+          - generic: Z
+          - generic: T
+          - generic: "N"
+          - generic: "N"
+          - generic: A
+          - generic: I
+          - generic: P
+          - generic: E
+          - generic: W
+          - generic: E
+          - generic: A
+          - generic: I
+          - generic: P
+          - generic: E
+          - generic: W
+          - generic: E
+          - generic: I
+          - generic: Q
+          - generic: K
+          - generic: J
+          - generic: E
+          - generic: U
+          - generic: Q
+          - generic: V
+          - generic: "Y"
+          - generic: B
+          - generic: Q
+          - generic: J
+          - generic: B
+          - generic: B
+          - generic: A
+          - generic: Z
+          - generic: B
+          - generic: V
+          - generic: R
+          - generic: K
+          - generic: A
+          - generic: Z
+          - generic: B
+          - generic: V
+          - generic: R
+          - generic: K
+          - generic: H
+          - generic: U
+          - generic: Q
+          - generic: C
+          - generic: H
+          - generic: I
+          - generic: E
+          - generic: U
+          - generic: K
+          - generic: T
+          - generic: X
+          - generic: I
+          - generic: P
+          - generic: B
+          - generic: V
+          - generic: R
+          - generic: G
+          - generic: F
+          - generic: P
+          - generic: "N"
+          - generic: V
+          - generic: R
+          - generic: G
+          - generic: F
+          - generic: P
+          - generic: "N"
+          - generic: "Y"
+          - generic: C
+          - generic: "N"
+          - generic: A
+          - generic: J
+          - generic: G
+          - generic: G
+          - generic: C
+          - generic: "N"
+          - generic: V
+          - generic: A
+          - generic: F
+          - generic: L
+          - generic: E
+          - generic: Z
+          - generic: J
+          - generic: I
+          - generic: H
+          - generic: Z
+          - generic: W
+          - generic: Z
+          - generic: J
+          - generic: I
+          - generic: H
+          - generic: Z
+          - generic: W
+          - generic: T
+          - generic: I
+          - generic: T
+          - generic: F
+          - generic: I
+          - generic: V
+          - generic: R
+          - generic: B
+          - generic: Z
+          - generic: E
+          - generic: P
+          - generic: G
+          - generic: F
+          - generic: Q
+          - generic: A
+          - generic: V
+          - generic: "N"
+          - generic: H
+          - generic: G
+          - generic: Q
+          - generic: A
+          - generic: V
+          - generic: "N"
+          - generic: H
+          - generic: G
+          - generic: Q
+          - generic: D
+          - generic: E
+          - generic: J
+          - generic: R
+          - generic: H
+          - generic: B
+          - generic: "N"
+          - generic: O
+          - generic: Q
+          - generic: O
+          - generic: H
+          - generic: D
+          - generic: X
+          - generic: B
+          - generic: P
+          - generic: F
+          - generic: F
+          - generic: C
+          - generic: "N"
+          - generic: H
+          - generic: P
+          - generic: F
+          - generic: F
+          - generic: C
+          - generic: "N"
+          - generic: H
+          - generic: "N"
+          - generic: "Y"
+          - generic: A
+          - generic: S
+          - generic: Z
+          - generic: C
+          - generic: L
+          - generic: C
+          - generic: E
+          - generic: M
+          - generic: J
+          - generic: E
+          - generic: U
+          - generic: "Y"
+          - generic: I
+          - generic: D
+          - generic: X
+          - generic: S
+          - generic: T
+          - generic: S
+          - generic: I
+          - generic: D
+          - generic: X
+          - generic: S
+          - generic: T
+          - generic: S
+          - generic: K
+          - generic: B
+          - generic: D
+          - generic: A
+          - generic: M
+          - generic: B
+          - generic: C
+          - generic: P
+          - generic: L
+          - generic: V
+          - generic: "Y"
+          - generic: J
+          - generic: X
+          - generic: J
+          - generic: "N"
+          - generic: B
+          - generic: Z
+          - generic: Q
+          - generic: Q
+          - generic: R
+          - generic: "N"
+          - generic: B
+          - generic: Z
+          - generic: Q
+          - generic: Q
+          - generic: R
+          - generic: B
+          - generic: L
+          - generic: I
+          - generic: T
+          - generic: K
+          - generic: M
+          - generic: M
+          - generic: D
+          - generic: M
+          - generic: H
+          - generic: O
+          - generic: Z
+          - generic: Z
+          - generic: L
+          - generic: V
+          - generic: O
+          - generic: Z
+          - generic: S
+          - generic: W
+          - generic: H
+          - generic: V
+          - generic: O
+          - generic: Z
+          - generic: S
+          - generic: W
+          - generic: H
+          - generic: E
+          - generic: W
+          - generic: L
+          - generic: V
+          - generic: I
+          - generic: F
+          - generic: A
+          - generic: T
+          - generic: I
+          - generic: "N"
+          - generic: F
+          - generic: E
+          - generic: D
+          - generic: R
+          - generic: "N"
+          - generic: L
+          - generic: J
+          - generic: J
+          - generic: P
+          - generic: E
+          - generic: "N"
+          - generic: L
+          - generic: J
+          - generic: J
+          - generic: P
+          - generic: E
+          - generic: J
+          - generic: R
+          - generic: S
+          - generic: B
+          - generic: Z
+          - generic: D
+          - generic: D
+          - generic: "Y"
+          - generic: W
+          - generic: W
+          - generic: M
+          - generic: Q
+          - generic: E
+          - generic: F
+          - generic: T
+          - generic: T
+          - generic: X
+          - generic: I
+          - generic: Z
+          - generic: H
+          - generic: T
+          - generic: T
+          - generic: X
+          - generic: I
+          - generic: Z
+          - generic: H
+          - generic: K
+          - generic: D
+          - generic: M
+          - generic: P
+          - generic: H
+          - generic: P
+          - generic: K
+          - generic: T
+          - generic: E
+          - generic: W
+          - generic: Q
+          - generic: G
+          - generic: "Y"
+          - generic: O
+          - generic: H
+          - generic: "Y"
+          - generic: A
+          - generic: J
+          - generic: T
+          - generic: I
+          - generic: H
+          - generic: "Y"
+          - generic: A
+          - generic: J
+          - generic: T
+          - generic: I
+          - generic: L
+          - generic: J
+          - generic: C
+          - generic: J
+          - generic: P
+          - generic: S
+          - generic: E
+          - generic: K
+          - generic: M
+          - generic: B
+          - generic: F
+          - generic: Z
+          - generic: E
+          - generic: H
+          - generic: E
+          - generic: I
+          - generic: H
+          - generic: D
+          - generic: P
+          - generic: "N"
+      - generic [ref=e67]:
+        - heading "Used by those who move fast" [level=2] [ref=e69]
+        - generic [ref=e70]:
+          - text: From startups to industry leaders,
+          - text: hundreds of thousands rely on Superwhisper to save time.
+    - generic [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic:
+            - generic: O
+            - generic: E
+            - generic: "N"
+            - generic: M
+            - generic: "Y"
+            - generic: P
+            - generic: K
+            - generic: O
+            - generic: U
+            - generic: P
+            - generic: B
+            - generic: P
+            - generic: W
+            - generic: C
+            - generic: T
+            - generic: M
+            - generic: M
+            - generic: X
+            - generic: O
+            - generic: Z
+            - generic: T
+            - generic: "Y"
+            - generic: L
+            - generic: X
+            - generic: L
+            - generic: S
+            - generic: T
+            - generic: "Y"
+            - generic: L
+            - generic: X
+            - generic: L
+            - generic: S
+            - generic: R
+            - generic: G
+            - generic: Z
+            - generic: L
+            - generic: O
+            - generic: P
+            - generic: K
+            - generic: T
+            - generic: M
+            - generic: P
+            - generic: V
+            - generic: F
+            - generic: L
+            - generic: "N"
+            - generic: D
+            - generic: B
+            - generic: X
+            - generic: P
+            - generic: T
+            - generic: H
+            - generic: D
+            - generic: B
+            - generic: X
+            - generic: P
+            - generic: T
+            - generic: H
+            - generic: B
+            - generic: C
+            - generic: W
+            - generic: Z
+            - generic: O
+            - generic: P
+            - generic: A
+            - generic: V
+            - generic: I
+            - generic: R
+            - generic: J
+            - generic: G
+            - generic: V
+            - generic: X
+            - generic: S
+            - generic: G
+            - generic: B
+            - generic: H
+            - generic: F
+            - generic: G
+            - generic: S
+            - generic: G
+            - generic: B
+            - generic: H
+            - generic: F
+            - generic: G
+            - generic: J
+            - generic: K
+            - generic: L
+            - generic: I
+            - generic: D
+            - generic: W
+            - generic: G
+            - generic: D
+            - generic: X
+            - generic: Z
+            - generic: S
+            - generic: B
+            - generic: T
+            - generic: J
+            - generic: G
+            - generic: V
+            - generic: P
+            - generic: X
+            - generic: O
+            - generic: M
+            - generic: G
+            - generic: V
+            - generic: P
+            - generic: X
+            - generic: O
+            - generic: M
+            - generic: A
+            - generic: A
+            - generic: E
+            - generic: "Y"
+            - generic: F
+            - generic: D
+            - generic: D
+            - generic: X
+            - generic: "Y"
+            - generic: "N"
+            - generic: X
+            - generic: Z
+            - generic: K
+            - generic: T
+            - generic: J
+            - generic: W
+            - generic: E
+            - generic: X
+            - generic: M
+            - generic: T
+            - generic: J
+            - generic: W
+            - generic: E
+            - generic: X
+            - generic: M
+            - generic: T
+            - generic: Z
+            - generic: A
+            - generic: J
+            - generic: P
+            - generic: Q
+            - generic: "N"
+            - generic: "Y"
+            - generic: X
+            - generic: E
+            - generic: O
+            - generic: X
+            - generic: R
+            - generic: Z
+            - generic: W
+            - generic: E
+            - generic: H
+            - generic: X
+            - generic: B
+            - generic: G
+            - generic: J
+            - generic: E
+            - generic: H
+            - generic: X
+            - generic: B
+            - generic: G
+            - generic: J
+            - generic: H
+            - generic: Z
+            - generic: C
+            - generic: Z
+            - generic: C
+            - generic: M
+            - generic: P
+            - generic: C
+            - generic: V
+            - generic: X
+            - generic: I
+            - generic: Q
+            - generic: "N"
+            - generic: G
+            - generic: H
+            - generic: "Y"
+            - generic: D
+            - generic: "N"
+            - generic: "Y"
+            - generic: X
+            - generic: H
+            - generic: "Y"
+            - generic: D
+            - generic: "N"
+            - generic: "Y"
+            - generic: X
+            - generic: W
+            - generic: E
+            - generic: L
+            - generic: I
+            - generic: W
+            - generic: H
+            - generic: O
+            - generic: P
+            - generic: S
+            - generic: "Y"
+            - generic: T
+            - generic: "Y"
+            - generic: W
+            - generic: G
+            - generic: B
+            - generic: J
+            - generic: G
+            - generic: K
+            - generic: J
+            - generic: I
+            - generic: B
+            - generic: J
+            - generic: G
+            - generic: K
+            - generic: J
+            - generic: I
+            - generic: Q
+            - generic: X
+            - generic: P
+            - generic: "N"
+            - generic: C
+            - generic: V
+            - generic: C
+            - generic: J
+            - generic: K
+            - generic: S
+            - generic: F
+            - generic: G
+            - generic: T
+            - generic: E
+            - generic: L
+            - generic: "Y"
+            - generic: Z
+            - generic: Q
+            - generic: Z
+            - generic: M
+            - generic: L
+            - generic: "Y"
+            - generic: Z
+            - generic: Q
+            - generic: Z
+            - generic: M
+            - generic: "N"
+            - generic: E
+            - generic: B
+            - generic: P
+            - generic: K
+            - generic: I
+            - generic: L
+            - generic: M
+            - generic: R
+            - generic: E
+            - generic: Z
+            - generic: L
+            - generic: H
+            - generic: X
+            - generic: B
+            - generic: T
+            - generic: D
+            - generic: W
+            - generic: "Y"
+            - generic: B
+            - generic: B
+            - generic: T
+            - generic: D
+            - generic: W
+            - generic: "Y"
+            - generic: B
+            - generic: Q
+            - generic: F
+            - generic: S
+            - generic: "Y"
+            - generic: W
+            - generic: P
+            - generic: X
+            - generic: O
+            - generic: S
+            - generic: K
+            - generic: F
+            - generic: W
+            - generic: E
+            - generic: S
+            - generic: Q
+            - generic: M
+            - generic: R
+            - generic: H
+            - generic: T
+            - generic: K
+            - generic: Q
+            - generic: M
+            - generic: R
+            - generic: H
+            - generic: T
+            - generic: K
+            - generic: I
+            - generic: C
+            - generic: K
+            - generic: D
+            - generic: J
+            - generic: T
+            - generic: S
+            - generic: R
+            - generic: B
+            - generic: W
+            - generic: L
+            - generic: A
+            - generic: "Y"
+            - generic: "N"
+            - generic: X
+            - generic: Z
+            - generic: A
+            - generic: E
+            - generic: W
+            - generic: M
+            - generic: X
+            - generic: Z
+            - generic: A
+            - generic: E
+            - generic: W
+            - generic: M
+            - generic: Z
+            - generic: L
+            - generic: G
+            - generic: R
+            - generic: V
+            - generic: A
+            - generic: S
+            - generic: C
+            - generic: L
+            - generic: F
+            - generic: U
+            - generic: J
+            - generic: J
+            - generic: L
+            - generic: X
+            - generic: C
+            - generic: "Y"
+            - generic: U
+            - generic: O
+            - generic: I
+            - generic: X
+            - generic: C
+            - generic: "Y"
+            - generic: U
+            - generic: O
+            - generic: I
+            - generic: K
+            - generic: A
+            - generic: C
+            - generic: L
+            - generic: Z
+            - generic: S
+            - generic: V
+            - generic: B
+            - generic: Z
+            - generic: J
+            - generic: Z
+            - generic: T
+            - generic: "N"
+            - generic: "N"
+            - generic: A
+            - generic: I
+            - generic: P
+            - generic: E
+            - generic: W
+            - generic: E
+            - generic: A
+            - generic: I
+            - generic: P
+            - generic: E
+            - generic: W
+            - generic: E
+            - generic: I
+            - generic: Q
+            - generic: K
+            - generic: J
+            - generic: E
+            - generic: U
+            - generic: Q
+            - generic: V
+            - generic: "Y"
+            - generic: B
+            - generic: Q
+            - generic: J
+            - generic: B
+            - generic: B
+            - generic: A
+            - generic: Z
+            - generic: B
+            - generic: V
+            - generic: R
+            - generic: K
+            - generic: A
+            - generic: Z
+            - generic: B
+            - generic: V
+            - generic: R
+            - generic: K
+            - generic: H
+            - generic: U
+            - generic: Q
+            - generic: C
+            - generic: H
+            - generic: I
+            - generic: E
+            - generic: U
+            - generic: K
+            - generic: T
+            - generic: X
+            - generic: I
+            - generic: P
+            - generic: B
+            - generic: V
+            - generic: R
+            - generic: G
+            - generic: F
+            - generic: P
+            - generic: "N"
+            - generic: V
+            - generic: R
+            - generic: G
+            - generic: F
+            - generic: P
+            - generic: "N"
+            - generic: "Y"
+            - generic: C
+            - generic: "N"
+            - generic: A
+            - generic: J
+            - generic: G
+            - generic: G
+            - generic: C
+            - generic: "N"
+            - generic: V
+            - generic: A
+            - generic: F
+            - generic: L
+            - generic: E
+            - generic: Z
+            - generic: J
+            - generic: I
+            - generic: H
+            - generic: Z
+            - generic: W
+            - generic: Z
+            - generic: J
+            - generic: I
+            - generic: H
+            - generic: Z
+            - generic: W
+            - generic: T
+            - generic: I
+            - generic: T
+            - generic: F
+            - generic: I
+            - generic: V
+            - generic: R
+            - generic: B
+            - generic: Z
+            - generic: E
+            - generic: P
+            - generic: G
+            - generic: F
+            - generic: Q
+            - generic: A
+            - generic: V
+            - generic: "N"
+            - generic: H
+            - generic: G
+            - generic: Q
+            - generic: A
+            - generic: V
+            - generic: "N"
+            - generic: H
+            - generic: G
+            - generic: Q
+            - generic: D
+            - generic: E
+            - generic: J
+            - generic: R
+            - generic: H
+            - generic: B
+            - generic: "N"
+            - generic: O
+            - generic: Q
+            - generic: O
+            - generic: H
+            - generic: D
+            - generic: X
+            - generic: B
+            - generic: P
+            - generic: F
+            - generic: F
+            - generic: C
+            - generic: "N"
+            - generic: H
+            - generic: P
+            - generic: F
+            - generic: F
+            - generic: C
+            - generic: "N"
+            - generic: H
+            - generic: "N"
+            - generic: "Y"
+            - generic: A
+            - generic: S
+            - generic: Z
+            - generic: C
+            - generic: L
+            - generic: C
+            - generic: E
+            - generic: M
+            - generic: J
+            - generic: E
+            - generic: U
+            - generic: "Y"
+            - generic: I
+            - generic: D
+            - generic: X
+            - generic: S
+            - generic: T
+            - generic: S
+            - generic: I
+            - generic: D
+            - generic: X
+            - generic: S
+            - generic: T
+            - generic: S
+            - generic: K
+            - generic: B
+            - generic: D
+            - generic: A
+            - generic: M
+            - generic: B
+            - generic: C
+            - generic: P
+            - generic: L
+            - generic: V
+            - generic: "Y"
+            - generic: J
+            - generic: X
+            - generic: J
+            - generic: "N"
+            - generic: B
+            - generic: Z
+            - generic: Q
+            - generic: Q
+            - generic: R
+            - generic: "N"
+            - generic: B
+            - generic: Z
+            - generic: Q
+            - generic: Q
+            - generic: R
+            - generic: B
+            - generic: L
+            - generic: I
+            - generic: T
+            - generic: K
+            - generic: M
+            - generic: M
+            - generic: D
+            - generic: M
+            - generic: H
+            - generic: O
+            - generic: Z
+            - generic: Z
+            - generic: L
+            - generic: V
+            - generic: O
+            - generic: Z
+            - generic: S
+            - generic: W
+            - generic: H
+            - generic: V
+            - generic: O
+            - generic: Z
+            - generic: S
+            - generic: W
+            - generic: H
+            - generic: E
+            - generic: W
+            - generic: L
+            - generic: V
+            - generic: I
+            - generic: F
+            - generic: A
+            - generic: T
+            - generic: I
+            - generic: "N"
+            - generic: F
+            - generic: E
+            - generic: D
+            - generic: R
+            - generic: "N"
+            - generic: L
+            - generic: J
+            - generic: J
+            - generic: P
+            - generic: E
+            - generic: "N"
+            - generic: L
+            - generic: J
+            - generic: J
+            - generic: P
+            - generic: E
+            - generic: J
+            - generic: R
+            - generic: S
+            - generic: B
+            - generic: Z
+            - generic: D
+            - generic: D
+            - generic: "Y"
+            - generic: W
+            - generic: W
+            - generic: M
+            - generic: Q
+            - generic: E
+            - generic: F
+            - generic: T
+            - generic: T
+            - generic: X
+            - generic: I
+            - generic: Z
+            - generic: H
+            - generic: T
+            - generic: T
+            - generic: X
+            - generic: I
+            - generic: Z
+            - generic: H
+            - generic: K
+            - generic: D
+            - generic: M
+            - generic: P
+            - generic: H
+            - generic: P
+            - generic: K
+            - generic: T
+            - generic: E
+            - generic: W
+            - generic: Q
+            - generic: G
+            - generic: "Y"
+            - generic: O
+            - generic: H
+            - generic: "Y"
+            - generic: A
+            - generic: J
+            - generic: T
+            - generic: I
+            - generic: H
+            - generic: "Y"
+            - generic: A
+            - generic: J
+            - generic: T
+            - generic: I
+            - generic: L
+            - generic: J
+            - generic: C
+            - generic: J
+            - generic: P
+            - generic: S
+            - generic: E
+            - generic: K
+            - generic: M
+            - generic: B
+            - generic: F
+            - generic: Z
+            - generic: E
+            - generic: H
+            - generic: E
+            - generic: I
+            - generic: H
+            - generic: D
+            - generic: P
+            - generic: "N"
+        - generic [ref=e77]:
+          - heading "Adaptability" [level=1] [ref=e78]
+          - heading "Communication isn't one-size-fits-all" [level=2] [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - generic [ref=e84]:
+            - generic [ref=e86]: Hello Louis, hope you're doing well. Do you have any updates?
+            - generic [ref=e88]: No, but we could chat next week if that works for you
+            - generic [ref=e90]: Let's schedule a meeting next week to review details. Please let me know your availability
+          - generic [ref=e92]:
+            - generic [ref=e94]: Hey @Louis, any updates?
+            - generic [ref=e96]: No, chat soon ?
+            - generic [ref=e98]: Sure lets book a call for next week, can go over the details then. LMK when you're free!
+          - generic [ref=e100]:
+            - generic [ref=e102]: Dear Mr. Coleman, I wanted to follow up and see if there are any updates since our last meeting
+            - generic [ref=e104]: No, but we could chat next week if it is acceptable for you
+            - generic [ref=e106]: We can set an appointment to discuss the indemnification clauses in further detail. Please, let me know your schedule.
+          - generic [ref=e108]:
+            - generic [ref=e110]: hey louis, whats good my man
+            - generic [ref=e112]: suh fam
+            - generic [ref=e114]: lets catch up next wk, lmk when your free
+        - generic [ref=e115]:
+          - generic [ref=e116] [cursor=pointer]: Formal
+          - generic [ref=e117] [cursor=pointer]: Casual
+          - generic [ref=e118] [cursor=pointer]: Legal
+          - generic [ref=e119] [cursor=pointer]: Chat
+    - generic [ref=e123]:
+      - generic [ref=e125]:
+        - paragraph [ref=e126]: What's inside
+        - paragraph [ref=e127]:
+          - text: Powerful features,
+          - text: seamlessly integrated.
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - heading "Works offline" [level=3] [ref=e135]
+          - paragraph [ref=e136]:
+            - text: Superwhisper works offline, so you can transcribe anytime.
+            - text: No Wi-Fi, no problem.
+          - switch "Toggle switch" [ref=e138] [cursor=pointer]
+        - generic [ref=e140]:
+          - heading "Use your own words" [level=3] [ref=e143]
+          - paragraph [ref=e144]:
+            - text: Enter names, abbreviations, and specialized terms once.
+            - text: Superwhisper remembers forever.
+        - generic [ref=e148]:
+          - heading "Predefined modes" [level=3] [ref=e151]
+          - paragraph [ref=e152]:
+            - text: Predefined modes optimize tone, structure, and formatting.
+            - text: So your text is always right, right away.
+          - generic [ref=e155]:
+            - generic [ref=e156] [cursor=pointer]:
+              - img [ref=e159]
+              - generic [ref=e161]: Voice
+            - generic [ref=e162] [cursor=pointer]:
+              - img [ref=e165]
+              - generic [ref=e168]: Message
+            - generic [ref=e169] [cursor=pointer]:
+              - img [ref=e172]
+              - generic [ref=e176]: Email
+        - generic [ref=e177]:
+          - heading "Multilanguage support" [level=3] [ref=e180]
+          - paragraph [ref=e181]:
+            - text: Superwhisper supports 100+ languages & dialects.
+            - text: It can also translate them all to English.
+        - generic [ref=e183]:
+          - heading "Clipboard integration" [level=3] [ref=e186]
+          - paragraph [ref=e187]:
+            - text: No need to copy and paste.
+            - text: Your edited transcript is automatically pasted in the app you're using.
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e191]: Lorem ipsum dolor sit amet
+              - generic [ref=e193]: Consect etur adipi
+            - generic [ref=e196]:
+              - button [ref=e197] [cursor=pointer]:
+                - img [ref=e198]
+              - generic [ref=e200]:
+                - button [ref=e201] [cursor=pointer]:
+                  - img [ref=e202]
+                - textbox [ref=e204]: Hey! Wanna catch a movie this weekend? They're playing Mulholland Drive at The Rialto.
+              - button [ref=e205] [cursor=pointer]:
+                - img [ref=e206]
+        - generic [ref=e208]:
+          - heading "Meeting assistant" [level=3] [ref=e211]
+          - paragraph [ref=e212]:
+            - text: Focus now, we take notes.
+            - text: Record and digest meetings effortlessly with automatic notes.
+    - generic [ref=e214]:
+      - generic [ref=e216]:
+        - img [ref=e218]
+        - generic [ref=e220]:
+          - generic [ref=e221]: File transcription
+          - generic [ref=e222]: Upload video and audio files and get reliable transcripts.
+      - generic [ref=e224]:
+        - img [ref=e226]
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - generic [ref=e232]: Push to talk
+            - generic [ref=e233]: New
+          - generic [ref=e234]: Hold, speak, release. Effortless control at your fingertips.
+      - generic [ref=e236]:
+        - generic [ref=e237]: ⌘W
+        - generic [ref=e238]:
+          - generic [ref=e239]: Shortcuts
+          - generic [ref=e240]: Set custom shortcuts to launch, dictate and control.
+      - generic [ref=e242]:
+        - img [ref=e244]
+        - generic [ref=e247]:
+          - generic [ref=e248]: Super Mode
+          - generic [ref=e249]: AI-enhanced mode that adapts to your screen for smart results.
+    - generic [ref=e251]:
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e261]:
+            - generic [ref=e264]: Home
+            - generic [ref=e267]: Modes
+            - generic [ref=e270]: Vocabulary
+            - generic [ref=e273]: Configuration
+          - generic [ref=e274]:
+            - generic [ref=e275]: Modes
+            - paragraph [ref=e276]: Create modes designed for your tasks, whether you're writing a message, a document, speaking another language...
+            - generic [ref=e277]:
+              - generic [ref=e280]: Message mode
+              - generic [ref=e281]:
+                - generic [ref=e283]: Preset
+                - generic [ref=e285]: Language
+        - generic [ref=e286]:
+          - generic [ref=e290]:
+            - generic [ref=e291]: ❮
+            - generic [ref=e292]: Advanced settings
+          - generic [ref=e294]:
+            - generic [ref=e295]:
+              - generic [ref=e296]:
+                - generic [ref=e297]: Language Models
+                - generic [ref=e298]: ⓘ
+              - generic [ref=e299]:
+                - generic [ref=e302]: GPT-5
+                - generic [ref=e303]: ▼
+            - generic [ref=e304]:
+              - generic [ref=e305]:
+                - generic [ref=e306]: Voice Models
+                - generic [ref=e307]: ⓘ
+              - generic [ref=e308]:
+                - generic [ref=e311]: Whisper Large
+                - generic [ref=e312]: ▼
+            - generic [ref=e313]:
+              - generic [ref=e314]: Activate when using
+              - generic [ref=e315]: ⓘ
+            - generic [ref=e316]:
+              - generic [ref=e317]:
+                - generic [ref=e319]: +
+                - generic [ref=e320]: Add App
+              - generic [ref=e321]:
+                - img "Telegram" [ref=e322]
+                - generic [ref=e323]: Telegram
+              - generic [ref=e324]:
+                - img "WhatsApp" [ref=e325]
+                - generic [ref=e326]: WhatsApp
+        - generic [ref=e327]:
+          - generic [ref=e329]: Favorites
+          - generic [ref=e332]: GPT-5
+          - generic [ref=e334]: Most popular
+          - generic [ref=e337]: Claude Haiku 4.5
+          - generic [ref=e340]: Llama 4
+          - generic [ref=e343]: Grok 4.1
+          - generic [ref=e346]: Gemini 3.0 Flash
+          - generic [ref=e349]: Ministral
+      - generic [ref=e350]:
+        - generic [ref=e351]:
+          - generic [ref=e352]: Custom Mode
+          - generic [ref=e353]: Build it yourself
+          - generic [ref=e354]: Custom Mode lets you define how Superwhisper thinks, writes, and formats. Down to the finest detail.
+        - generic [ref=e355]:
+          - img [ref=e357]
+          - generic [ref=e359]:
+            - generic [ref=e360]: Beyond tone – precision control
+            - generic [ref=e361]: Set formatting rules, structure preferences, and even specialized prompts for different tasks.
+        - generic [ref=e362]:
+          - img [ref=e364]
+          - generic [ref=e366]:
+            - generic [ref=e367]: Pick the right model for the job
+            - generic [ref=e368]: Choose from top-tier models like GPT, Claude, or Llama to balance speed, accuracy, and complexity.
+        - generic [ref=e369]:
+          - img [ref=e371]
+          - generic [ref=e373]:
+            - generic [ref=e374]: Refine for every situation
+            - generic [ref=e375]: Save your preferences once, get consistent output every time. No more tweaking the same settings over and over.
+    - generic [ref=e376]:
+      - generic [ref=e377]:
+        - generic [ref=e378]: Integrations
+        - generic [ref=e379]:
+          - text: Works anywhere
+          - text: you can type
+        - generic [ref=e380]:
+          - text: Slack, Cursor, Notion...
+          - text: You say it, Superwhisper handles it.
+      - generic [ref=e381]:
+        - generic [ref=e411]:
+          - img "key-0" [ref=e415]
+          - img "key-1" [ref=e418]
+          - img "key-2" [ref=e421]
+          - img "key-3" [ref=e424]
+          - img "key-4" [ref=e427]
+          - img "key-5" [ref=e430]
+          - img "key-6" [ref=e433]
+          - img "key-7" [ref=e436]
+          - img "key-8" [ref=e439]
+          - img "key-9" [ref=e442]
+          - img "key-10" [ref=e445]
+          - img "key-11" [ref=e448]
+          - img "enter" [ref=e452]
+        - generic [ref=e453]:
+          - img "key-12" [ref=e457]
+          - img "key-13" [ref=e460]
+          - img "key-14" [ref=e463]
+          - img "key-15" [ref=e466]
+          - img "key-16" [ref=e469]
+          - img "key-17" [ref=e472]
+          - img "key-18" [ref=e475]
+          - img "key-19" [ref=e478]
+          - img "key-20" [ref=e481]
+          - img "key-21" [ref=e484]
+          - img "key-22" [ref=e487]
+          - img "key-23" [ref=e490]
+        - generic [ref=e492]:
+          - img "key-24" [ref=e496]
+          - img "key-25" [ref=e499]
+          - img "key-26" [ref=e502]
+          - img "key-27" [ref=e505]
+          - img "key-28" [ref=e508]
+          - img "key-29" [ref=e511]
+          - img "key-30" [ref=e514]
+          - img "key-31" [ref=e517]
+          - img "key-32" [ref=e520]
+          - img "key-33" [ref=e523]
+          - img "key-34" [ref=e526]
+    - generic [ref=e554]:
+      - generic [ref=e555]:
+        - generic [ref=e556]: Beep boop
+        - generic [ref=e557]: Faster agentic workflows
+        - generic [ref=e558]: Use Superwhisper with Cursor, Claude Code, Open Code, Amp, Codex, or any other agentic coding app, without touching your keyboard.
+        - generic [ref=e559]:
+          - img [ref=e560]
+          - generic [ref=e561]:
+            - generic [ref=e562]: Works where you code
+            - generic [ref=e563]: Superwhisper integrates seamlessly so you can drive an entire fleet of agents faster than you can type.
+        - generic [ref=e564]:
+          - img [ref=e565]
+          - generic [ref=e566]:
+            - generic [ref=e567]: Less typing, more building
+            - generic [ref=e568]: Allow agents to one shot your next feature by giving them more context. Talk through your change and skip the typing.
+      - generic [ref=e578]:
+        - generic [ref=e579]:
+          - generic [ref=e580]: ╭─── Claude Code v2.1.12 ──────────────────────────────────────────────────────╮
+          - generic [ref=e581]: │ │ Tips for getting │
+          - generic [ref=e582]: │ Welcome back! │ started │
+          - generic [ref=e583]: │ │ Run /init to create a … │
+          - generic [ref=e584]: "│ ▐▛███▜▌ │ Note: You have launche… │"
+          - generic [ref=e585]: │ ▝▜█████▛▘ │ ─────────────────────── │
+          - generic [ref=e586]: │ ▘▘ ▝▝ │ Recent activity │
+          - generic [ref=e587]: │ Opus 4.5 · Claude Team · Superwhisper │ No recent activity │
+          - generic [ref=e588]: │ │ │
+          - generic [ref=e589]: │ ~/Dev/kestrel │ │
+          - generic [ref=e590]: ╰──────────────────────────────────────────────────────────────────────────────╯
+        - generic [ref=e591]:
+          - generic [ref=e592]: ❯ In @shape-generator.js can you add a nice morphing transition when
+          - generic [ref=e593]: I click generate? Like they morph from square to circle and vice versa or
+          - generic [ref=e594]: just fade out, but not instant like it is now.
+        - generic [ref=e595]:
+          - generic [ref=e597]: Read(shape-generator.html)
+          - generic [ref=e599]: Read 1395 lines
+          - generic [ref=e603]: I'll add a smooth morphing transition with fade and border-radius animation
+          - generic [ref=e605]: when generating new shapes.
+          - generic [ref=e609]: Update(shape-generator.html)
+          - generic [ref=e611]: ────────────────────────────────────────────────────────────────────────────────
+          - generic [ref=e613]: Edit file shape-generator.html
+          - generic [ref=e615]: ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+          - generic [ref=e617]: "83 .shape-cell {"
+          - generic [ref=e619]: "84 width: 40px;"
+          - generic [ref=e621]: "85 height: 40px;"
+          - generic [ref=e623]: "86 + transition: border-radius 0.4s ease-out, opacity 0.3s ease-out,"
+          - generic [ref=e625]: +transform 0.4s ease-out;
+          - generic [ref=e627]: "87 }"
+    - generic [ref=e630]:
+      - link "App Store QR Code" [ref=e631] [cursor=pointer]:
+        - /url: https://apps.apple.com/us/app/superwhisper/id6471464415
+        - img "App Store QR Code" [ref=e633]
+      - generic [ref=e637]:
+        - generic [ref=e638]: Also available for iOS
+        - paragraph [ref=e639]: Take Superwhisper for a stroll and keep your tone, punctuation, and formatting flawless, wherever you go.
+    - generic [ref=e645]:
+      - generic [ref=e646]: What people say
+      - generic [ref=e647]:
+        - text: Loved by thousands,
+        - text: built for how you work
+      - generic [ref=e648]:
+        - generic [ref=e649]:
+          - generic [ref=e656]:
+            - generic [ref=e657]:
+              - img [ref=e659]
+              - generic [ref=e661]:
+                - generic [ref=e662]: Andrej Karpathy
+                - generic [ref=e663]:
+                  - generic [ref=e664]: Founder
+                  - generic [ref=e665]: Eureka Labs
+            - generic [ref=e667]:
+              - generic [ref=e668]:
+                - generic [ref=e669]: Andrej Karpathy
+                - generic [ref=e670]: "@karpathy"
+              - generic [ref=e671]:
+                - text: There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. I just talk to Composer with
+                - link "@superwhisperapp" [ref=e672] [cursor=pointer]:
+                  - /url: https://x.com/superwhisperapp
+                - text: so I barely even touch the keyboard....
+          - generic [ref=e679]:
+            - generic [ref=e680]:
+              - img [ref=e682]
+              - generic [ref=e684]:
+                - generic [ref=e685]: Pieter Levels
+                - generic [ref=e687]: Serial entrepreneur
+            - generic [ref=e689]:
+              - generic [ref=e690]:
+                - generic [ref=e691]: Pieter Levels
+                - generic [ref=e692]: "@levelsio"
+              - generic [ref=e693]:
+                - text: Tried
+                - link "@superwhisperapp" [ref=e694] [cursor=pointer]:
+                  - /url: https://x.com/superwhisperapp
+                - text: today
+                - text: Very nice
+                - text: Lets me talk to Cursor and then it codes for me just gets it right.
+          - generic [ref=e705]:
+            - generic [ref=e706]:
+              - img [ref=e708]
+              - generic [ref=e710]:
+                - generic [ref=e711]: Andrew Wilkinson
+                - generic [ref=e712]:
+                  - generic [ref=e713]: CEO
+                  - generic [ref=e714]: tiny
+            - generic [ref=e716]:
+              - generic [ref=e717]:
+                - generic [ref=e718]: Andrew Wilkinson
+                - generic [ref=e719]: "@awilkinson"
+              - generic [ref=e720]:
+                - text: "Tools I couldn't live without:"
+                - text: • @Superhuman
+                - text: •
+                - link "@superwhisperapp" [ref=e723] [cursor=pointer]:
+                  - /url: https://x.com/superwhisperapp
+                - text: •
+                - link "@reflectnotes" [ref=e725] [cursor=pointer]:
+                  - /url: https://reflect.app/
+                - text: • @ChatGPTapp / @perplexity_ai
+                - text: What about you? What's your iOS/Mac/Web stack?
+          - generic [ref=e734]:
+            - generic [ref=e735]:
+              - img [ref=e737]
+              - generic [ref=e739]:
+                - generic [ref=e740]: Guillermo Rauch
+                - generic [ref=e741]:
+                  - generic [ref=e742]: CEO
+                  - generic [ref=e743]: Vercel
+            - generic [ref=e745]:
+              - generic [ref=e746]:
+                - generic [ref=e747]: Guillermo Rauch
+                - generic [ref=e748]: "@rauchg"
+              - generic [ref=e749]:
+                - link "@superwhisperapp" [ref=e750] [cursor=pointer]:
+                  - /url: https://x.com/superwhisperapp
+                - text: "delivers on the dream of an AI-native operating system. The best part: it's insanely fast and does just what you expect."
+        - generic [ref=e752]:
+          - generic [ref=e753]: Testimonies
+          - generic [ref=e754]: Endless happy users
+          - generic [ref=e755]:
+            - generic [ref=e756] [cursor=pointer]:
+              - img [ref=e759]
+              - generic [ref=e761]:
+                - generic [ref=e762]: Andrej Karpathy
+                - generic [ref=e763]:
+                  - text: Founder
+                  - generic [ref=e764]: Eureka Labs
+            - generic [ref=e765] [cursor=pointer]:
+              - img [ref=e768]
+              - generic [ref=e770]:
+                - generic [ref=e771]: Pieter Levels
+                - generic [ref=e772]: Serial entrepreneur
+            - generic [ref=e773] [cursor=pointer]:
+              - img [ref=e776]
+              - generic [ref=e778]:
+                - generic [ref=e779]: Andrew Wilkinson
+                - generic [ref=e780]:
+                  - text: CEO
+                  - generic [ref=e781]: tiny
+            - generic [ref=e782] [cursor=pointer]:
+              - img [ref=e785]
+              - generic [ref=e787]:
+                - generic [ref=e788]: Guillermo Rauch
+                - generic [ref=e789]:
+                  - text: CEO
+                  - generic [ref=e790]: Vercel
+    - generic [ref=e791]:
+      - generic [ref=e793]:
+        - button "Monthly" [ref=e797] [cursor=pointer]
+        - button "Yearly(2 months free)" [ref=e798] [cursor=pointer]
+        - button "Lifetime(Top choice)" [ref=e799] [cursor=pointer]
+      - generic [ref=e800]:
+        - generic [ref=e801]:
+          - generic [ref=e802]: Free
+          - generic [ref=e803]:
+            - generic [ref=e804]: $
+            - generic [ref=e805]: "0"
+          - generic [ref=e806]: Must-have features for everyday use.
+          - generic [ref=e808]:
+            - generic [ref=e809]: Voice to text that works in any app
+            - generic [ref=e810]: Meeting recording and transcription
+            - generic [ref=e811]: Support for 100+ Languages
+            - generic [ref=e812]: Unlimited use of small AI models
+            - generic [ref=e813]: Custom prompt control
+            - generic [ref=e814]: Email Support
+          - generic [ref=e815]:
+            - link "Download" [ref=e816] [cursor=pointer]:
+              - /url: /download
+              - generic [ref=e817]: Download
+              - img [ref=e819]
+            - link "Available on Mac, Windows and iOS" [ref=e821] [cursor=pointer]:
+              - /url: /download
+        - generic [ref=e822]:
+          - generic [ref=e823]: Pro
+          - generic [ref=e825]:
+            - generic [ref=e826]:
+              - generic [ref=e827]: $
+              - generic [ref=e828]: "8"
+              - generic [ref=e829]: "49"
+            - generic [ref=e830]:
+              - generic [ref=e831] [cursor=pointer]: 40% off for Students
+              - generic [ref=e832]: /month
+          - generic [ref=e833]: Advanced tools for a refined workflow.
+          - generic [ref=e835]:
+            - generic [ref=e836]: "Everything in Free, plus:"
+            - generic [ref=e837]: Use your own AI API Keys
+            - generic [ref=e838]: Unlimited use of Cloud and Local AI models
+            - generic [ref=e839]: Translate any language to English
+            - generic [ref=e840]: Transcribe audio and video files
+            - generic [ref=e841]: Priority Support
+          - generic [ref=e842]:
+            - link "Get Pro" [ref=e843] [cursor=pointer]:
+              - /url: /checkout?product=prod_PbC0CBtHsCt6Hf
+              - generic [ref=e844]: Get Pro
+              - img [ref=e846]
+            - generic [ref=e848]: 30 day refund available for all plans
+        - generic [ref=e849]:
+          - generic [ref=e850]:
+            - generic [ref=e851]:
+              - generic [ref=e852]: Enterprise
+              - generic [ref=e854]: Custom
+            - img "Backed by API Capital" [ref=e855]
+          - generic [ref=e856]: Solutions for teams of any size.
+          - generic [ref=e858]:
+            - generic [ref=e859]: "Everything in Pro, plus:"
+            - generic [ref=e860]: SOC 2 Type II certified
+            - generic [ref=e861]: Centralized billing and authentication
+            - generic [ref=e862]: Model access control
+            - generic [ref=e863]: Use Enterprise hosted models
+            - generic [ref=e864]: Volume discounts
+          - generic [ref=e865]:
+            - link "Contact us" [ref=e866] [cursor=pointer]:
+              - /url: mailto:enterprise@superwhisper.com?subject=Enterprise%20Inquiry
+              - generic [ref=e867]: Contact us
+              - img [ref=e869]
+            - generic [ref=e871]: We'll get back to you within 24 hours
+    - generic [ref=e872]:
+      - generic [ref=e873]: Tutorials
+      - generic [ref=e1062]: Writing Python in VSCode
+      - generic [ref=e877]: Quick videos to get you started in minutes
+      - generic [ref=e878]:
+        - generic:
+          - link "Video thumbnail Dictate your emails, in any app 2 min" [ref=e879] [cursor=pointer]:
+            - /url: https://youtu.be/h3NA_-Bo0zE
+            - img "Video thumbnail" [ref=e881]
+            - generic [ref=e887]:
+              - generic [ref=e888]: Dictate your emails, in any app
+              - generic [ref=e889]: 2 min
+          - link "Video thumbnail Send perfect messages at work 7 min" [ref=e890] [cursor=pointer]:
+            - /url: https://youtu.be/KIfNVh7N7N8
+            - img "Video thumbnail" [ref=e892]
+            - generic [ref=e895]:
+              - generic [ref=e896]: Send perfect messages at work
+              - generic [ref=e897]: 7 min
+          - link "Video thumbnail Quickly solidify your learning 2 min" [ref=e898] [cursor=pointer]:
+            - /url: https://youtu.be/582AnciKORw
+            - img "Video thumbnail" [ref=e900]
+            - generic [ref=e903]:
+              - generic [ref=e904]: Quickly solidify your learning
+              - generic [ref=e905]: 2 min
+          - link "Video thumbnail Get your work done fast & secure 14 min" [ref=e906] [cursor=pointer]:
+            - /url: https://youtu.be/k4OdhD5Y9Ko
+            - img "Video thumbnail" [ref=e908]
+            - generic [ref=e911]:
+              - generic [ref=e912]: Get your work done fast & secure
+              - generic [ref=e913]: 14 min
+          - link "Video thumbnail Make your journaling effortless 2 min" [ref=e914] [cursor=pointer]:
+            - /url: https://youtu.be/HbQFmfjN-oM
+            - img "Video thumbnail" [ref=e916]
+            - generic [ref=e919]:
+              - generic [ref=e920]: Make your journaling effortless
+              - generic [ref=e921]: 2 min
+          - link "Video thumbnail Voice to code in seconds 8 min" [ref=e922] [cursor=pointer]:
+            - /url: https://youtu.be/upfqdDiNQ1w
+            - generic [ref=e923]:
+              - img "Video thumbnail" [ref=e924]
+              - img [ref=e1064]
+            - generic [ref=e927]:
+              - generic [ref=e928]: Voice to code in seconds
+              - generic [ref=e929]: 8 min
+          - link "Video thumbnail Write better messages, get responses 5 min" [ref=e930] [cursor=pointer]:
+            - /url: https://youtu.be/W675B8ZVBFI
+            - img "Video thumbnail" [ref=e932]
+            - generic [ref=e935]:
+              - generic [ref=e936]: Write better messages, get responses
+              - generic [ref=e937]: 5 min
+      - generic [ref=e938]:
+        - button [ref=e939] [cursor=pointer]
+        - button [ref=e941] [cursor=pointer]
+        - button [ref=e942] [cursor=pointer]
+        - button [ref=e943] [cursor=pointer]
+        - button [ref=e944] [cursor=pointer]
+        - button [ref=e945] [cursor=pointer]
+        - button [ref=e946] [cursor=pointer]
+    - generic [ref=e947]:
+      - generic [ref=e948]:
+        - generic [ref=e949]:
+          - generic [ref=e950]: Support
+          - generic [ref=e951]: Frequently asked questions
+        - generic [ref=e952]:
+          - button "Can I try Superwhisper for free?" [ref=e953] [cursor=pointer]:
+            - generic [ref=e954]: Can I try Superwhisper for free?
+            - img [ref=e956]
+          - generic [ref=e958]: Yes, you can try the Pro features for 15 minutes of recording for free, after that the free tier features are available to you forever. The no questions asked refund within 30 days of purchase will always be honored.
+        - generic [ref=e959]:
+          - button "Will it work on my Intel Mac?" [ref=e961] [cursor=pointer]:
+            - generic [ref=e962]: Will it work on my Intel Mac?
+            - img [ref=e964]
+          - generic [ref=e966]: Intel Macs work best with Cloud models. Offline models only run really well on Apple Silicon macs.
+        - generic [ref=e967]:
+          - button "Which features are being worked on next?" [ref=e969] [cursor=pointer]:
+            - generic [ref=e970]: Which features are being worked on next?
+            - img [ref=e972]
+          - generic [ref=e974]:
+            - text: Check out our
+            - link "Roadmap" [ref=e975] [cursor=pointer]:
+              - /url: https://superwhisper.userjot.com/
+            - text: to see what is being worked on or request a new feature.
+        - generic [ref=e976]:
+          - button "Can I use my Pro license on all my devices?" [ref=e978] [cursor=pointer]:
+            - generic [ref=e979]: Can I use my Pro license on all my devices?
+            - img [ref=e981]
+          - generic [ref=e983]: Yes, you can activate your license on as many of your devices as you like.
+      - generic [ref=e985]:
+        - generic [ref=e986]: Can't find the answers you're looking for? Take a look in our Documentation. Click the button below to find the answers you need.
+        - link "Documentation" [ref=e987] [cursor=pointer]:
+          - /url: /docs
+          - generic [ref=e988]:
+            - text: Documentation
+            - img [ref=e990]
+  - contentinfo [ref=e992]:
+    - generic [ref=e994]:
+      - generic [ref=e995]:
+        - img [ref=e997]
+        - generic [ref=e998]: © 2026
+      - navigation "Footer" [ref=e999]:
+        - generic [ref=e1000]:
+          - generic [ref=e1001]: Policies
+          - link "Terms of service" [ref=e1003] [cursor=pointer]:
+            - /url: /terms
+          - link "Refund policy" [ref=e1005] [cursor=pointer]:
+            - /url: /refund
+          - link "Privacy policy" [ref=e1007] [cursor=pointer]:
+            - /url: /privacy
+        - generic [ref=e1008]:
+          - generic [ref=e1009]: Resources & Support
+          - link "Changelog" [ref=e1011] [cursor=pointer]:
+            - /url: /changelog
+          - link "Roadmap" [ref=e1013] [cursor=pointer]:
+            - /url: https://superwhisper.userjot.com/
+          - link "Careers WE'RE HIRING" [ref=e1015] [cursor=pointer]:
+            - /url: /careers
+            - text: Careers
+            - generic [ref=e1017]: WE'RE HIRING
+          - link "Documentation & Support" [ref=e1019] [cursor=pointer]:
+            - /url: /documentation
+          - link "Manage Billing" [ref=e1021] [cursor=pointer]:
+            - /url: /billing
+        - generic [ref=e1022]:
+          - generic [ref=e1023]: Let's stay in touch!
+          - generic [ref=e1024]: Never miss news and updates about Superwhisper
+          - generic [ref=e1025]:
+            - link "X" [ref=e1026] [cursor=pointer]:
+              - /url: https://x.com/superwhisperapp
+              - generic [ref=e1027]: X
+              - img [ref=e1028]
+            - link "Discord" [ref=e1030] [cursor=pointer]:
+              - /url: https://discord.gg/tF98XvJNvB
+              - generic [ref=e1031]: Discord
+              - img [ref=e1032]
+            - link "YouTube" [ref=e1035] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCBQpNBU5mrPKge6UETN8i8g
+              - generic [ref=e1036]: YouTube
+              - img [ref=e1037]
+            - link "Roadmap" [ref=e1039] [cursor=pointer]:
+              - /url: https://superwhisper.userjot.com
+              - generic [ref=e1040]: Roadmap
+              - img [ref=e1041]
+        - generic [ref=e1044]:
+          - generic [ref=e1045]: Subscribe to our newsletter
+          - generic [ref=e1046]: Carefully curated emails to keep you in the loop
+          - generic [ref=e1049]:
+            - textbox "Email" [ref=e1050]
+            - button [ref=e1051] [cursor=pointer]:
+              - img [ref=e1052]
+  - alert [ref=e1054]

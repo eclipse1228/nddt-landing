@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-02-16T14:14:32.297Z",
+  "client_id": "first-client",
+  "status": "completed",
+  "completed_steps": [
+    "step3_brand_tokenizer",
+    "step4_template_planning"
+  ],
+  "output_files": [
+    "client/first-client/theme/theme.json",
+    "client/first-client/theme/tokens.css",
+    "client/first-client/plan/page_plan.json",
+    "client/first-client/plan/components_map.json"
+  ]
+}

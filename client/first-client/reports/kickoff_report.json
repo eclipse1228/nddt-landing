@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-02-16T14:14:31.490Z",
+  "client_id": "first-client",
+  "status": "started",
+  "completed_steps": [
+    "step1_input_validation",
+    "step2_reference_capture_initial"
+  ],
+  "next_steps": [
+    "step3_brand_tokenizer",
+    "step4_template_planning",
+    "step5_copy_seo_generation"
+  ]
+}

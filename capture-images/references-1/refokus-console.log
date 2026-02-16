@@ -1,0 +1,44 @@
+Total messages: 56 (Errors: 40, Warnings: 1)
+Returning 41 messages for level "warning"
+
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:595
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:597
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:603
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:605
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:611
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:613
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:619
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:621
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:665
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:667
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:673
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:675
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:684
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:686
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:692
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:694
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:703
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:705
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:711
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:713
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:722
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:724
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:730
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:732
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:741
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:743
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:749
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:751
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:757
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:759
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:836
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:838
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:842
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:844
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:848
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:850
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:854
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:856
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:866
+[ERROR] Error: <svg> attribute viewBox: Expected number, "0 0 100% 1". @ https://www.refokus.com/:868
+[WARNING] GSAP target .c-blog_item not found. https://gsap.com @ https://js.refokus.com/main.js:8

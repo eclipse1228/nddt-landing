@@ -1,0 +1,9 @@
+Total messages: 15 (Errors: 5, Warnings: 1)
+Returning 6 messages for level "warning"
+
+[ERROR] Failed to load resource: the server responded with a status of 404 () @ https://superwhisper.com/image/whatsinside/clipboard/chatbg.png:0
+[ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dp0tm4a8zu6o6.cloudfront.net/sdk/1347688672465648507/events.js:0
+[WARNING] [Meta Pixel] - Duplicate Pixel ID: 1641676519868363. @ https://superwhisper.com/_next/static/chunks/3354-adbd7be3627d88ad.js:22
+[ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://superwhisper.com/?ref=saaspo.com:0
+[ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://custom.superwhisper.elevatemktg.io/events/d917b8c25e3f9513913fa3f32b4b54f1f2ee627e2cca25ebb5fea052d6fee570:0
+[ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://superwhisper.elevatemktg.io/events/d917b8c25e3f9513913fa3f32b4b54f1f2ee627e2cca25ebb5fea052d6fee570:0

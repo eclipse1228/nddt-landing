@@ -1,0 +1,24 @@
+:root {
+  --color-primary: #5B2EFF;
+  --color-accent: #FF6A00;
+  --color-bg: #060915;
+  --color-surface: #10172B;
+  --color-text-primary: #F3F6FF;
+  --color-text-secondary: #B6C0D8;
+  --color-border: #29324A;
+  --radius-base: 14px;
+  --space-unit: 4px;
+  --section-gap-desktop: 112px;
+  --section-gap-mobile: 72px;
+}
+
+body {
+  background: radial-gradient(120% 120% at 10% 0%, #111b36 0%, var(--color-bg) 55%, #03050c 100%);
+  color: var(--color-text-primary);
+  font-family: 'SUIT Variable', 'Noto Sans KR', system-ui, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Pretendard', 'Noto Sans KR', system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}

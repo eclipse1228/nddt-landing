@@ -1,0 +1,20 @@
+{
+  "source_url": "https://www.refokus.com/",
+  "site_key": "refokus.com",
+  "visual_direction": "Bold purple neon gradients with cinematic dark sections",
+  "interaction_focus": [
+    "intro sound toggle",
+    "menu overlays",
+    "high-motion transitions"
+  ],
+  "section_hints": [
+    "hero",
+    "services",
+    "case studies",
+    "footer links"
+  ],
+  "notes": [
+    "Hero uses strong contrast and large slogan",
+    "Dynamic effects may need headed capture for full fidelity"
+  ]
+}

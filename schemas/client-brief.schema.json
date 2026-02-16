@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nextdoordevteam.dev/schemas/client-brief.schema.json",
+  "title": "Landing Automation Client Brief",
+  "type": "object",
+  "required": [
+    "reference_urls",
+    "reference_priority",
+    "product_type",
+    "offer_summary",
+    "pricing",
+    "target_audience",
+    "proof_assets",
+    "business_phone",
+    "business_email",
+    "store_address",
+    "form_backend",
+    "business_owner_info",
+    "privacy_fields",
+    "tracking",
+    "seo"
+  ],
+  "properties": {
+    "client_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reference_urls": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "reference_priority": {
+      "type": "string",
+      "enum": ["디자인", "레이아웃", "카피", "애니메이션"]
+    },
+    "product_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "offer_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pricing": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target_audience": {
+      "type": "string",
+      "minLength": 1
+    },
+    "proof_assets": {
+      "type": "array"
+    },
+    "business_phone": {
+      "type": "string",
+      "minLength": 1
+    },
+    "business_email": {
+      "type": "string",
+      "minLength": 1
+    },
+    "store_address": {
+      "type": "string",
+      "minLength": 1
+    },
+    "form_backend": {
+      "type": "string",
+      "enum": ["tally", "nextjs_sheets", "web3forms"]
+    },
+    "business_owner_info": {
+      "type": "object",
+      "required": ["business_name", "representative", "address", "contact", "email"],
+      "properties": {
+        "business_name": { "type": "string", "minLength": 1 },
+        "representative": { "type": "string", "minLength": 1 },
+        "address": { "type": "string", "minLength": 1 },
+        "contact": { "type": "string", "minLength": 1 },
+        "email": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": true
+    },
+    "privacy_fields": {
+      "type": "object",
+      "required": ["collected", "retention_period"],
+      "properties": {
+        "collected": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "retention_period": { "type": "string", "minLength": 1 },
+        "third_party": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "tracking": {
+      "type": "object",
+      "required": ["ga4_id", "pixel_id"],
+      "properties": {
+        "ga4_id": { "type": "string" },
+        "pixel_id": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "seo": {
+      "type": "object",
+      "required": ["primary_keyword", "secondary_keywords", "local_keywords"],
+      "properties": {
+        "primary_keyword": { "type": "string", "minLength": 1 },
+        "secondary_keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "local_keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.refokus.com/",
+  "captured_at": "2026-02-16T14:14:31.339Z",
+  "hints": {
+    "hero": true,
+    "social_proof": false,
+    "feature_sections": true,
+    "pricing": false
+  },
+  "artifacts": {
+    "fullpage": "capture-images/references-1/refokus-fullpage-refresh.png",
+    "fullpage_sound_on": "capture-images/references-1/refokus-fullpage-sound-on.png",
+    "a11y_snapshot": "capture-images/references-1/refokus-a11y-snapshot.md",
+    "console_log": "capture-images/references-1/refokus-console.log"
+  },
+  "capture_fallbacks": {
+    "capture_status": "degraded_headless_fullpage",
+    "recommended_mode": "headed_or_segmented",
+    "options": [
+      {
+        "method": "headed_capture_gpu",
+        "when_to_use": "canvas or WebGL animation-heavy pages",
+        "summary": "Run headed browser with GPU to avoid blank frame layers"
+      },
+      {
+        "method": "pre_action_capture",
+        "when_to_use": "site has gate action like sound/menu toggle",
+        "summary": "Trigger interaction first, then capture full page"
+      },
+      {
+        "method": "segmented_scroll_capture",
+        "when_to_use": "fullPage image has large blank regions",
+        "summary": "Capture viewport screenshots while scrolling and stitch by y-offset"
+      },
+      {
+        "method": "network_idle_plus_warmup",
+        "when_to_use": "lazy assets or post-load animations are incomplete",
+        "summary": "Wait for network idle, then extra warm-up delay before screenshot"
+      },
+      {
+        "method": "dom_snapshot_first",
+        "when_to_use": "visual capture is unstable but structure is needed",
+        "summary": "Use accessibility/DOM snapshots as source of truth for section extraction"
+      }
+    ]
+  }
+}

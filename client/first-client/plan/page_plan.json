@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-02-16T14:14:32.274Z",
+  "client_id": "first-client",
+  "objective": "상담 전환 중심 원페이지",
+  "sections": [
+    {
+      "id": "hero",
+      "order": 1,
+      "block_type": "hero_with_dual_cta",
+      "goal": "3초 내 가치 제안 전달",
+      "required_inputs": [
+        "offer_summary",
+        "target_audience",
+        "primary_keyword"
+      ],
+      "cta": [
+        "form_submit",
+        "phone_call"
+      ]
+    },
+    {
+      "id": "proof_strip",
+      "order": 2,
+      "block_type": "trust_logo_and_metrics",
+      "goal": "신뢰 확보",
+      "required_inputs": [
+        "proof_assets"
+      ],
+      "cta": []
+    },
+    {
+      "id": "pain_solution",
+      "order": 3,
+      "block_type": "problem_solution_cards",
+      "goal": "타겟 문제-해결 연결",
+      "required_inputs": [
+        "target_audience",
+        "offer_summary"
+      ],
+      "cta": [
+        "form_submit"
+      ]
+    },
+    {
+      "id": "service_stack",
+      "order": 4,
+      "block_type": "service_feature_grid",
+      "goal": "서비스 범위 명확화",
+      "required_inputs": [
+        "product_type"
+      ],
+      "cta": []
+    },
+    {
+      "id": "process",
+      "order": 5,
+      "block_type": "timeline_process",
+      "goal": "진행 방식 설명으로 불안 완화",
+      "required_inputs": [
+        "offer_summary"
+      ],
+      "cta": []
+    },
+    {
+      "id": "pricing",
+      "order": 6,
+      "block_type": "pricing_teaser",
+      "goal": "문의 전 가격 기대치 형성",
+      "required_inputs": [
+        "pricing"
+      ],
+      "cta": [
+        "form_submit"
+      ]
+    },
+    {
+      "id": "faq",
+      "order": 7,
+      "block_type": "accordion_faq",
+      "goal": "구매 저항 해소",
+      "required_inputs": [
+        "seo.primary_keyword"
+      ],
+      "cta": []
+    },
+    {
+      "id": "final_cta",
+      "order": 8,
+      "block_type": "cta_banner",
+      "goal": "최종 전환 유도",
+      "required_inputs": [
+        "business_phone",
+        "business_email",
+        "store_address"
+      ],
+      "cta": [
+        "form_submit",
+        "phone_call",
+        "map_directions"
+      ]
+    },
+    {
+      "id": "footer",
+      "order": 9,
+      "block_type": "legal_footer",
+      "goal": "사업자/개인정보 고지",
+      "required_inputs": [
+        "business_owner_info",
+        "privacy_fields"
+      ],
+      "cta": []
+    }
+  ]
+}

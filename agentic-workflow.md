@@ -17,7 +17,11 @@
   * CTA 플러그인(폼→리드, 전화, 카카오톡, 지도, 예약 등) 포함
   
 - 참고: (랜딩페이지에 관한 전문지식을 넣은 md파일)[knowledgeoflandingpage.md]
-
+- 디자인은 gemini 3.0 pro 로 진행하세요. 
+- 관련 이미지(사진,이미지,그림)는 생성 가능하다면 Antigravity 를 통해서 gemini 3.0 pro를 통해 이미지를 생성하세요
+- 한글로 작성해야합니다. 폰트는 비슷한 한글을 찾아서 사용하세요.
+- 래퍼런스에서 찾은 캡쳐본은 capture-images/references-1/ 이렇게 폴더에 저장해주세요. (전체 페이지를 다 캡쳐해서 이해해야합니다.) 꼭 하단까지 스크롤해서 캡쳐합시다. 동적인 웹사이트(애니메이션 등) 이 있으니, 유의
+- 보통 clientbrief.json이 완벽하지 않을것이니, 보완해주셔야합니다.
 ---
 
 # 1) 입력 스키마 (클라이언트 브리프 JSON)
@@ -342,5 +346,4 @@
 
 ---
 
-# 5) 중요
 - 디자인 코드는 gemini 3.0 pro로 할 것을 추천합니다. (Antigravity gemini pro 3.0 || gemini --model gemini-3-pro --yolo 를 통해 gemini cli 실행)

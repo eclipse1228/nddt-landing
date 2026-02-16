@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-02-16T14:14:32.273Z",
+  "client_id": "first-client",
+  "tone": "전문",
+  "personality": {
+    "mood": "high-contrast modern",
+    "energy": "high",
+    "target": "소상공인/스타트업 의사결정자",
+    "style_notes": [
+      "네온 포인트 컬러를 과용하지 않고 핵심 CTA에 집중",
+      "섹션 간 대비를 크게 두어 스크롤 집중도 강화",
+      "모바일에서 터치 타겟 44px 이상 유지"
+    ]
+  },
+  "colors": {
+    "primary": "#5B2EFF",
+    "accent": "#FF6A00",
+    "background": "#060915",
+    "surface": "#10172B",
+    "text_primary": "#F3F6FF",
+    "text_secondary": "#B6C0D8",
+    "border": "#29324A"
+  },
+  "typography": {
+    "heading_family": "Pretendard",
+    "body_family": "SUIT Variable",
+    "fallback_family": "Noto Sans KR",
+    "scale": {
+      "h1": "clamp(2.25rem, 4vw, 4rem)",
+      "h2": "clamp(1.75rem, 3vw, 3rem)",
+      "h3": "clamp(1.25rem, 2vw, 2rem)",
+      "body": "1rem",
+      "small": "0.875rem"
+    }
+  },
+  "spacing": {
+    "base_unit": 4,
+    "section_gap_desktop": 112,
+    "section_gap_mobile": 72,
+    "radius": 14
+  },
+  "motion": {
+    "page_intro": "fade-up-stagger",
+    "cta_hover": "lift-and-glow",
+    "duration_fast_ms": 180,
+    "duration_base_ms": 320,
+    "duration_slow_ms": 560
+  },
+  "reference_signals": [
+    {
+      "source_url": "https://www.refokus.com/",
+      "visual_direction": "Bold purple neon gradients with cinematic dark sections",
+      "interaction_focus": [
+        "intro sound toggle",
+        "menu overlays",
+        "high-motion transitions"
+      ]
+    },
+    {
+      "source_url": "https://superwhisper.com/?ref=saaspo.com",
+      "visual_direction": "Dark gradient product-marketing layout with dense feature storytelling",
+      "interaction_focus": [
+        "theme switcher",
+        "sticky nav",
+        "interactive demo blocks"
+      ]
+    }
+  ]
+}
