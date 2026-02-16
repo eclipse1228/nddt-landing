@@ -5,16 +5,18 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.0",
-    "react": "^18.3.0",
-    "react-dom": "^18.3.0",
     "@vercel/analytics": "^1.0.0",
     "@vercel/speed-insights": "^1.0.0",
-    "lucide-react": "^0.400.0"
+    "lucide-react": "^0.400.0",
+    "next": "^14.2.0",
+    "next-sitemap": "^4.2.3",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
   },
   "devDependencies": {
     "@types/node": "^20",

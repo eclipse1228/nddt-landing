@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nddt-landing.vercel.app
+
+# Sitemaps
+Sitemap: https://nddt-landing.vercel.app/sitemap.xml
