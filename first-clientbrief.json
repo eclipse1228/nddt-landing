@@ -1,0 +1,60 @@
+{
+  "reference_urls": [
+    "https://example.com"       // 따라하고 싶은 랜딩페이지 URL 1~N개
+
+  ],
+  "reference_priority": "디자인", // "디자인" | "레이아웃" | "카피" | "애니메이션"
+  // ─── 2. Offer & Product (필수) ───
+  "product_type": "웹/앱 에이전시",            // 업종: 미용실 / 학원 / 카페 / 헬스 / PT / 법무 / 세무 / 이커머스 ...
+  "offer_summary": "",           // 한 줄 가치제안. 예: "강남역 3분, 두피 전문 탈모 케어"
+  "pricing": "문의",                 // 가격/플랜. 없으면 "문의"로 처리
+  // ─── 3. Audience & Proof (필수) ───
+  "target_audience": "",         // 핵심 타겟. 예: "30~50대 남성, 탈모 고민, 강남 직장인"
+  "proof_assets": [],            // 후기/사례/수치. 없으면 빈 배열 → 자동으로 신뢰장치 대체안 생성
+  // ─── 4. CTA (필수 — 최소 전화번호만이라도) ───
+  "business_phone": "",          // 전화번호 (있으면 자동 적용)
+  "business_email": "",          // 이메일 (있으면 자동 적용)
+  "kakao_url": "",               // 카카오 오픈채팅 URL (없으면 생략)
+  "store_address": "",           // 매장 주소 (있으면 지도 자동 적용)
+  "form_backend": "web3forms",       // "tally" | "nextjs_sheets" | "web3forms"
+  // ─── 5. Legal (필수) ───
+  "business_owner_info": {
+    "business_name": "옆집개발실(NDDT(NextDoorDevTeam)",         // 사업자명 (상호)
+    "representative": "고병수",        // 대표자명
+    "address": "부산 부산진구 동천로 116, 3층 303호",               // 사업장 주소
+    "contact": "010-8477-6339",               // 대표 연락처
+    "email": "qudtnrh@naver.com"                  // 대표 이메일
+  },
+  "privacy_fields": {
+    "collected": ["이름", "전화번호", "이메일", "요구사항"],  // 폼에서 수집할 필드
+    "retention_period": "상담 완료 후 1년",       // 보관기간
+    "third_party": ""                             // 처리위탁 업체 (없으면 빈 문자열)
+  },
+  // ─── 6. 옵션 (없어도 됨 — 있으면 퀄리티 상승) ───
+  "brand_assets": {
+    "logo_url": "",              // 로고 이미지 URL/경로 (없으면 자동 생성)
+    "favicon_url": "",           // 파비콘 (없으면 자동)
+    "og_image_url": ""           // OG 이미지 (없으면 자동)
+  },
+  "brand_tone": "",              // "친근" | "프리미엄" | "직설" | "전문"
+  "seo": {
+    "primary_keyword": "",       // 주요 키워드
+    "secondary_keywords": [],    // 보조 키워드
+    "local_keywords": []         // 지역 키워드 (예: "강남 탈모", "서초구 두피케어")
+  },
+  "media": [],                   // 매장/제품 사진 URL/경로 (없으면 AI 스톡 대체)
+  "constraints": [],             // 금지 표현 또는 필수 고지 문구
+  "tracking": {
+    "ga4_id": "",                // GA4 Measurement ID (없으면 생략)
+    "pixel_id": ""               // 광고 픽셀 ID (없으면 생략)
+  },
+  // ─── 7. 프리미엄 CTA (선택) ───
+  "calcom_event_url": "",        // Cal.com 예약 URL (없으면 생략)
+  "ghl_webhook_url": "",         // GoHighLevel webhook (없으면 생략)
+  "kakao_channel_url": "",       // 카카오 채널 URL (없으면 생략)
+  "channeltalk_plugin_key": ""   // Channel.io key (없으면 생략)
+  "web3forms": {
+    "endpoint_url": "",           // Web3Forms endpoint URL (없으면 생략)
+    "form-access_key": "6f575653-f96c-4e6d-9d08-5aff4818b955"          // Web3Forms access key (없으면 생략)
+  }
+}
