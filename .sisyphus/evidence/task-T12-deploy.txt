@@ -1,0 +1,100 @@
+Vercel CLI 50.17.1
+Loading scopes…
+Searching for existing projects…
+> Auto-detected Project Settings for Next.js
+
+Linked to byeongsu-gos-projects/landing-automation-vercel (created .vercel)
+> Connecting GitHub repository: https://github.com/eclipse1228/nddt-landing
+> Connected
+Deploying byeongsu-gos-projects/landing-automation-vercel
+Uploading [--------------------] (0.0B/8.4MB)
+Uploading [=====---------------] (2.1MB/8.4MB)
+Uploading [==========----------] (4.2MB/8.4MB)
+Uploading [===============-----] (6.3MB/8.4MB)
+Uploading [====================] (8.4MB/8.4MB)
+Inspect: https://vercel.com/byeongsu-gos-projects/landing-automation-vercel/Eyzvv3sHiaKGV8CQsfzefuvqhM5e [4s]
+Production: https://landing-automation-vercel-hqcdzbzer-byeongsu-gos-projects.vercel.app [4s]
+https://landing-automation-vercel-hqcdzbzer-byeongsu-gos-projects.vercel.appBuilding...
+Building...
+Building: Running build in Portland, USA (West) – pdx1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 74 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.15.1
+Building: Installing dependencies...
+Building: bun install v1.3.6 (d530ed99)
+Building: Saved lockfile
+Building: + @types/node@20.19.33
+Building: + @types/react@18.3.28
+Building: + @types/react-dom@18.3.7
+Building: + autoprefixer@10.4.24
+Building: + eslint@8.57.1
+Building: + eslint-config-next@14.2.35
+Building: + postcss@8.5.6
+Building: + tailwindcss@3.4.19
+Building: + typescript@5.9.3
+Building: + @vercel/analytics@1.6.1
+Building: + @vercel/speed-insights@1.3.1
+Building: + lucide-react@0.400.0
+Building: + next@14.2.35
+Building: + next-sitemap@4.2.3
+Building: + react@18.3.1
+Building: + react-dom@18.3.1
+Building: 378 packages installed [3.40s]
+Building: Detected Next.js version: 14.2.35
+Building: Running "bun run build"
+Building: $ next build
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 14.2.35
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully
+Building: Linting and checking validity of types ...
+Building: Collecting page data ...
+Building: ⚠ Using edge runtime on a page currently disables static generation for that page
+Building: Generating static pages (0/6) ...
+Building: Generating static pages (1/6)
+Building: Generating static pages (2/6)
+Building: Generating static pages (4/6)
+Building: ✓ Generating static pages (6/6)
+Building: Finalizing page optimization ...
+Building: Collecting build traces ...
+Building: Route (app)                              Size     First Load JS
+Building: ┌ ○ /                                    9.23 kB         105 kB
+Building: ├ ○ /_not-found                          138 B          87.5 kB
+Building: ├ ƒ /api/og                              0 B                0 B
+Building: ├ ○ /privacy                             178 B          96.2 kB
+Building: └ ○ /thank-you                           879 B          96.9 kB
+Building: + First Load JS shared by all            87.3 kB
+Building: ├ chunks/117-a555172fb8d682dd.js       31.7 kB
+Building: ├ chunks/fd9d1056-0807e69ea9c303ac.js  53.6 kB
+Building: └ other shared chunks (total)          1.95 kB
+Building: ○  (Static)   prerendered as static content
+Building: ƒ  (Dynamic)  server-rendered on demand
+Building: $ next-sitemap
+Building: ✨ [next-sitemap] Loading next-sitemap config: file:///vercel/path0/next-sitemap.config.js
+Building: ✅ [next-sitemap] Generation completed
+Building: ┌───────────────┬────────┐
+Building: │ (index)       │ Values │
+Building: ├───────────────┼────────┤
+Building: │ indexSitemaps │ 0      │
+Building: │ sitemaps      │ 1      │
+Building: └───────────────┴────────┘
+Building: -----------------------------------------------------
+Building: SITEMAPS
+Building: -----------------------------------------------------
+Building: ○ https://nddt-landing.vercel.app/sitemap.xml
+Building: Traced Next.js server files in: 33.449ms
+Building: Created all serverless functions in: 74.026ms
+Building: Collected static files (public/, static/, .next/static): 4.909ms
+Building: Build Completed in /vercel/output [29s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://landing-automation-vercel-hqcdzbzer-byeongsu-gos-projects.vercel.app [2m]
+Completing...
+Aliased: https://landing-automation-vercel.vercel.app [2m]

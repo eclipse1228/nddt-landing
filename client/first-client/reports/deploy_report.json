@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-02-17T00:00:00Z",
+  "client_id": "first-client",
+  "project_name": "nddt-landing",
+  "urls": {
+    "production": "https://landing-automation-vercel.vercel.app",
+    "github": "https://github.com/eclipse1228/nddt-landing"
+  },
+  "reference_sites": [
+    "https://www.refokus.com/",
+    "https://superwhisper.com/"
+  ],
+  "cta_status": {
+    "form_web3forms": "active",
+    "phone": "active",
+    "email": "active",
+    "map_naver": "active",
+    "kakao_chat": "not_configured",
+    "calcom": "not_configured",
+    "channeltalk": "not_configured"
+  },
+  "lighthouse": {
+    "performance": null,
+    "seo": null,
+    "accessibility": null,
+    "note": "Lighthouse scores pending — run against production URL"
+  },
+  "analytics": {
+    "vercel_analytics": true,
+    "vercel_speed_insights": true,
+    "ga4": false,
+    "pixel": false
+  },
+  "compliance": {
+    "privacy_page": true,
+    "pipa_consent": true,
+    "cookie_consent": false,
+    "business_info_footer": true
+  },
+  "pages": ["/", "/privacy", "/thank-you"],
+  "tech_stack": {
+    "framework": "Next.js 14",
+    "styling": "Tailwind CSS",
+    "hosting": "Vercel",
+    "form_backend": "Web3Forms",
+    "fonts": ["Pretendard", "SUIT Variable", "Noto Sans KR"]
+  },
+  "git": {
+    "remote": "https://github.com/eclipse1228/nddt-landing",
+    "branch": "main",
+    "latest_commit": "d289210a0083333b3fa3a14d81fc3906bd8361bd"
+  }
+}
