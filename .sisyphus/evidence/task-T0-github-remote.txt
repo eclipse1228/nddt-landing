@@ -1,0 +1,2 @@
+origin	https://github.com/eclipse1228/nddt-landing.git (fetch)
+origin	https://github.com/eclipse1228/nddt-landing.git (push)
