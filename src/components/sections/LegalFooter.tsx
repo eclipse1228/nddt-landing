@@ -37,7 +37,12 @@ export default function LegalFooter() {
         <p>대표자: 고병수</p>
         <p>사업장 주소: 부산 부산진구 동천로 116 3층 303호</p>
         <p>연락처: 010-8477-6339</p>
-        <p>이메일: qudtnrh@naver.com</p>
+        <p>
+          이메일:{' '}
+          <a href="mailto:qudtnrh@naver.com" className="text-primary underline underline-offset-4">
+            qudtnrh@naver.com
+          </a>
+        </p>
         <p>
           <Link href="/privacy" className="min-h-[44px] text-primary underline underline-offset-4">
             개인정보처리방침
